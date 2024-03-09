@@ -1,9 +1,13 @@
 
 const Header = () => {
     return (
-        <div>
-            Header
-        </div>
+        <header>
+            <nav>
+                <div className="navbar justify-between bg-base-300">
+                    
+                </div>
+            </nav>
+        </header>
     );
 }
 
