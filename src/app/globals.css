@@ -25,6 +25,10 @@ body {
     )
     rgb(var(--background-start-rgb)); */
 }
+.btn{
+  text-transform: none;
+}
+
 
 @layer utilities {
   .text-balance {
